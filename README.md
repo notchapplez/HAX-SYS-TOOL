@@ -1,5 +1,6 @@
-# HAX-SYS-TOOL 
-### This is a fork of Ferrousink/AX-SYS-TOOL 
+responsible # HAX-SYS-TOOL 
+### This is a fork of Ferrousink/AX-SYS-TOOL
+### We are not responsible for any harm/damage cause by the Tool.
 
 ## Installation: (For more information read "How to use")
   1. Download Builder
