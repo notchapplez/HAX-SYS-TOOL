@@ -1,4 +1,4 @@
-responsible # HAX-SYS-TOOL 
+# HAX-SYS-TOOL 
 ### This is a fork of Ferrousink/AX-SYS-TOOL
 ### We are not responsible for any harm/damage cause by the Tool.
 
