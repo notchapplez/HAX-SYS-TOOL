@@ -1,5 +1,5 @@
-# AX-SYS
-### Creator is not responsible for any damage caused by the AX-SYS-Tool
+# HAX-SYS-TOOL 
+### This is a fork of Ferrousink/AX-SYS-TOOL 
 
 ## Installation: (For more information read "How to use")
   1. Download Builder
