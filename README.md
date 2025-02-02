@@ -8,6 +8,7 @@
 
 ## Information:
 - All Windows PE Related files are from Microsoft's Windows Assesment and Deployment Kit.
+- Default Password for the ".\WDAGUtilityAccount" after executing the exploit is: "AX-SYS"
 
 ## Independant Version:
   1. Press on Power Button in start menu
