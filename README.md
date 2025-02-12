@@ -20,5 +20,5 @@
   7. Execute: `curl https://AX-SYS.github.io | cmd`
 
 - Ethernet Required! (+ Ethernet Drivers in WindowsPE)
-- Only works when rescue Command Prompt is unlock! (Upon pressing Command Prompt and being asked for an Admin Account)
+- Only works when rescue Command Prompt is unlocked! (Upon pressing Command Prompt and being asked for an Admin Account)
 - I've also never tested this version :3
